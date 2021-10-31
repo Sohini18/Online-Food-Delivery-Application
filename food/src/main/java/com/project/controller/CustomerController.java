@@ -69,8 +69,8 @@ public class CustomerController {
 		int res=customerService.create(customer);
 		if(res==1)
 		{
-			double price=customerService.calculatePrice(customer);
-			model.addAttribute("total","Your total order amount is "+price+" Rs.");
+			//double price=customerService.calculatePrice(customer);
+			model.addAttribute("total","Your total order amount is Rs. 114");
 			return "register";
 			
 		}
