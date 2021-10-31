@@ -143,7 +143,7 @@
 		</div>
 		
 	</nav>
-<h3><center> Hey ${name}!!! Congrats!! We are processing your order!!</center></h3>
+<h3><center> Hey! your order amount is Rs. 114. We are processing your order!!</center></h3>
 <br>
 <center><img src="https://assets-global.website-files.com/5bfd1275cc56e15ce750b18e/5d0521f085f49b7479a43cb8_26.png" height="400px"/></center>
 
